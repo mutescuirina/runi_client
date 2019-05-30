@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 import NewForm from './components/NewForm'
-
-class App extends Component {
+import './App.css'
+class App extends React.Component {
   constructor(props) {
     super(props);
 
